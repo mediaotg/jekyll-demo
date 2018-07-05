@@ -23,8 +23,7 @@ defaults:
     - Stories
     - Residential Units
     - Commercial Units
-    is_completed:
-    - Is completed
+    - is_completed
     date_completed:
     - Date
 email: esty.mediaotg@gmail.com
