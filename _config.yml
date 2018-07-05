@@ -24,10 +24,8 @@ defaults:
     - Residential Units
     - Commercial Units
     Date:
-    - Date completed
-    map:
-      latitude: 
-      longitude: 
+      is_complete: 
+      complete_date: 
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
