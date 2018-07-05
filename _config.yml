@@ -17,6 +17,15 @@ defaults:
     type: projects
   values:
     layout: default
+    Info:
+      address:
+      square_feet:
+      stories:
+      residential_units:
+     commercial_units:
+    Date:
+      is_complete: 
+      complete_date: 
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
