@@ -23,9 +23,11 @@ defaults:
     - Stories
     - Residential Units
     - Commercial Units
-    - is_completed
-    date_completed:
-    - Date
+    Date: 
+    - Date completed
+    map:
+      latitude: 
+      longitude: 
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
