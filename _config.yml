@@ -14,13 +14,19 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: projects
   values:
     layout: default
-    details:
-    - address
-    - square feet
-    - stories
+    Details:
+    - Address
+    - Square Feet
+    - Stories
+    - Residential Units
+    - Commercial Units
+    is_completed: 
+    - Is completed
+    date_completed:
+    - Date
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
