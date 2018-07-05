@@ -23,7 +23,7 @@ defaults:
     - Stories
     - Residential Units
     - Commercial Units
-    Date: 
+    Date:
     - Date completed
     map:
       latitude: 
