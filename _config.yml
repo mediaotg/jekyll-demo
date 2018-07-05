@@ -8,6 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    colors:
+    - red
+    - green
+    - blue
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
@@ -17,12 +27,3 @@ url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      colors: ["red", "green", "blue"]
