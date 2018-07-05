@@ -14,10 +14,10 @@ defaults:
     type: posts
   values:
     layout: default
-    colors:
-    - red
-    - green
-    - blue
+    details:
+    - address
+    - square feet
+    - stories
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
