@@ -18,11 +18,11 @@ defaults:
   values:
     layout: default
     Details:
-    - Address
-    - Square Feet
-    - Stories
-    - Residential Units
-    - Commercial Units
+      Address:
+      Square Feet:
+      Stories:
+      Residential Units:
+     Commercial Units:
     Date:
       is_complete: 
       complete_date: 
