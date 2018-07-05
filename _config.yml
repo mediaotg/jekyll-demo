@@ -23,7 +23,7 @@ defaults:
     - Stories
     - Residential Units
     - Commercial Units
-    is_completed: 
+    is_completed:
     - Is completed
     date_completed:
     - Date
