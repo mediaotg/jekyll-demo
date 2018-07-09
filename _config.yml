@@ -23,7 +23,7 @@ email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
 
 '
-baseurl: ''
+baseurl: 
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
