@@ -16,7 +16,8 @@ defaults:
     path: ''
     type: projects
   values:
-    address: Address
+    data: 
+      address: 'Address'
     layout: default
 email: esty.mediaotg@gmail.com
 description: 'This is just a demo website to figure out jekyll
